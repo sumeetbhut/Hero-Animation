@@ -1,4 +1,4 @@
-package com.rathana.hero_animation
+package com.app.hero_animation
 
 import android.os.Bundle
 
